@@ -1,0 +1,528 @@
+{
+  "ingredients": [
+    {
+      "name": "Niacinamide",
+      "role": "Réduit les pores et régule le sébum",
+      "good_for": ["peau grasse", "acné", "pores dilatés", "rougeurs"],
+      "bad_for": ["allergie niacinamide"],
+      "products": ["CeraVe PM", "The Ordinary Niacinamide 10%"]
+    },
+    {
+      "name": "Acide Salicylique (BHA)",
+      "role": "Exfoliant chimique, nettoie les pores en profondeur",
+      "good_for": ["acné", "points noirs", "peau grasse", "inflammation"],
+      "bad_for": ["peau très sèche", "peau sensible", "grossesse"],
+      "products": ["La Roche-Posay Effaclar", "CeraVe SA Cleanser", "Paula's Choice BHA"]
+    },
+    {
+      "name": "Acide Hyaluronique",
+      "role": "Hydratation intense et repulpant",
+      "good_for": ["peau sèche", "peau déshydratée", "tous types", "rides"],
+      "bad_for": [],
+      "products": ["Neutrogena Hydro Boost", "Vichy Aqualia Thermal", "The Ordinary Hyaluronic Acid"]
+    },
+    {
+      "name": "Rétinol",
+      "role": "Anti-âge puissant, stimule le renouvellement cellulaire",
+      "good_for": ["rides", "taches", "acné", "teint terne"],
+      "bad_for": ["peau très sensible", "grossesse", "allaitement", "exposition solaire directe"],
+      "products": ["La Roche-Posay Redermic R", "The Ordinary Retinol in Squalane"]
+    },
+    {
+      "name": "Vitamine C (Acide Ascorbique)",
+      "role": "Antioxydant, éclaircit le teint et stimule le collagène",
+      "good_for": ["taches pigmentaires", "teint terne", "anti-âge"],
+      "bad_for": ["peau très réactive", "acné active inflammatoire"],
+      "products": ["The Ordinary Vitamin C", "Vichy Liftactiv", "La Roche-Posay Pure Vitamin C10"]
+    },
+    {
+      "name": "Panthénol (Vitamine B5)",
+      "role": "Apaisant et réparateur de la barrière cutanée",
+      "good_for": ["peau sensible", "irritations", "peau sèche"],
+      "bad_for": [],
+      "products": ["La Roche-Posay Cicaplast Baume B5", "The Ordinary Hyaluronic Acid + B5"]
+    },
+    {
+      "name": "Squalane",
+      "role": "Émollient léger qui imite les huiles naturelles de la peau",
+      "good_for": ["déshydratation", "tous types de peau", "barrière cutanée"],
+      "bad_for": [],
+      "products": ["The Ordinary Squalane Cleanser", "Biossance Squalane Oil"]
+    },
+    {
+      "name": "Céramides",
+      "role": "Restituent les lipides essentiels et renforcent la barrière",
+      "good_for": ["peau sèche", "peau sensible", "eczéma", "barrière endommagée"],
+      "bad_for": [],
+      "products": ["CeraVe Moisturizing Cream", "La Roche-Posay Toleriane Double Repair"]
+    },
+    {
+      "name": "Centella Asiatica (Cica)",
+      "role": "Calme les inflammations et aide à la cicatrisation",
+      "good_for": ["peau sensible", "acné", "rougeurs", "cicatrices"],
+      "bad_for": [],
+      "products": ["Dr. Jart+ Cicapair", "La Roche-Posay Cicaplast"]
+    },
+    {
+      "name": "Acide Glycolique (AHA)",
+      "role": "Exfoliant de surface, lisse le grain de peau",
+      "good_for": ["teint terne", "taches", "grain de peau irrégulier"],
+      "bad_for": ["peau très sensible", "soleil sans protection"],
+      "products": ["The Ordinary Glycolic Acid 7% Toning Solution", "L'Oréal Revitalift Glycolic"]
+    },
+    {
+      "name": "Acide Lactique (AHA)",
+      "role": "Exfoliant doux et hydratant",
+      "good_for": ["peau sèche", "teint terne", "premières rides"],
+      "bad_for": ["peau hypersensible"],
+      "products": ["The Ordinary Lactic Acid 5% + HA", "Sunday Riley Good Genes"]
+    },
+    {
+      "name": "Acide Azélaïque",
+      "role": "Réduit les rougeurs et combat les bactéries de l'acné",
+      "good_for": ["rosacée", "acné", "taches post-acné"],
+      "bad_for": [],
+      "products": ["The Ordinary Azelaic Acid Suspension 10%", "Finacea"]
+    },
+    {
+      "name": "Bakuchiol",
+      "role": "Alternative naturelle au rétinol, moins irritante",
+      "good_for": ["anti-âge", "peau sensible", "rides"],
+      "bad_for": [],
+      "products": ["Herbivore Bakuchiol Retinol Alternative Serum", "The Inkey List Bakuchiol"]
+    },
+    {
+      "name": "Peptides",
+      "role": "Messagers cellulaires pour la fermeté et l'élasticité",
+      "good_for": ["relâchement cutané", "rides", "tous types"],
+      "bad_for": [],
+      "products": ["The Ordinary 'Buffet'", "The Inkey List Peptide Moisturizer"]
+    },
+    {
+      "name": "Glycérine",
+      "role": "Humectant classique et efficace",
+      "good_for": ["peau sèche", "peau déshydratée", "tous types"],
+      "bad_for": [],
+      "products": ["CeraVe Hydrating Cleanser", "Neutrogena Hydro Boost"]
+    },
+    {
+      "name": "Allantoïne",
+      "role": "Apaisant et protecteur",
+      "good_for": ["peau sensible", "irritations", "après-rasage"],
+      "bad_for": [],
+      "products": ["La Roche-Posay Cicaplast", "Bioderma Sensibio Forte"]
+    },
+    {
+      "name": "Thé Vert (Camellia Sinensis)",
+      "role": "Antioxydant et anti-inflammatoire",
+      "good_for": ["acné", "peau grasse", "protection solaire"],
+      "bad_for": [],
+      "products": ["Innisfree Green Tea Seed Serum", "Youth To The People Superfood Cleanser"]
+    },
+    {
+      "name": "Extrait de Réglisse (Licorice Root)",
+      "role": "Éclaircit le teint et apaise",
+      "good_for": ["taches pigmentaires", "rougeurs", "teint terne"],
+      "bad_for": [],
+      "products": ["Eucerin Anti-Pigment", "It's Skin Power 10 Formula WH Effector"]
+    },
+    {
+      "name": "Alpha Arbutine",
+      "role": "Inhibiteur de mélanine pour éclaircir les taches",
+      "good_for": ["taches brunes", "hyperpigmentation", "teint irrégulier"],
+      "bad_for": [],
+      "products": ["The Ordinary Alpha Arbutin 2% + HA"]
+    },
+    {
+      "name": "Acide Kojique",
+      "role": "Agent éclaircissant pour les taches tenaces",
+      "good_for": ["mélasma", "taches de vieillesse", "taches solaires"],
+      "bad_for": ["peau très sensible"],
+      "products": ["Skinceuticals Discoloration Defense", "Kojie San Soap"]
+    },
+    {
+      "name": "Peroxyde de Benzoyle",
+      "role": "Tue les bactéries responsables de l'acné",
+      "good_for": ["acné inflammatoire", "boutons"],
+      "bad_for": ["peau sèche", "décoloration des vêtements"],
+      "products": ["Cutacnyl", "Panoxyl", "La Roche-Posay Effaclar Duo (US version)"]
+    },
+    {
+      "name": "Soufre",
+      "role": "Assèche les imperfections et régule le sébum",
+      "good_for": ["acné", "points noirs", "peau grasse"],
+      "bad_for": ["peau très sèche", "sensibilité à l'odeur"],
+      "products": ["Sunday Riley Saturn Sulfur Mask", "Kate Somerville EradiKate"]
+    },
+    {
+      "name": "Argile (Kaolin/Bentonite)",
+      "role": "Absorbe l'excès de sébum et purifie",
+      "good_for": ["peau grasse", "pores obstrués", "brillance"],
+      "bad_for": ["peau sèche"],
+      "products": ["L'Oréal Argile Pure", "Kiehl's Rare Earth Deep Pore Cleansing Masque"]
+    },
+    {
+      "name": "Huile de Jojoba",
+      "role": "Huile proche du sébum humain, équilibrante",
+      "good_for": ["tous types de peau", "peau grasse", "barrière cutanée"],
+      "bad_for": [],
+      "products": ["Desert Essence Jojoba Oil", "The Ordinary 100% Organic Cold-Pressed Jojoba Oil"]
+    },
+    {
+      "name": "Huile d'Argan",
+      "role": "Nourrissante et riche en antioxydants",
+      "good_for": ["peau sèche", "anti-âge", "cheveux"],
+      "bad_for": ["acné active (potentiellement comédogène)"],
+      "products": ["The Ordinary 100% Organic Cold-Pressed Moroccan Argan Oil", "Josie Maran Argan Oil"]
+    },
+    {
+      "name": "Huile de Rose Musquée",
+      "role": "Régénérante et riche en Vitamine A",
+      "good_for": ["cicatrices", "rides", "taches", "peau sèche"],
+      "bad_for": ["peau très grasse"],
+      "products": ["The Ordinary 100% Organic Cold-Pressed Rose Hip Seed Oil", "Pai Skincare Rosehip BioRegenerate Oil"]
+    },
+    {
+      "name": "Vitamine E (Tocophérol)",
+      "role": "Antioxydant protecteur et stabilisant",
+      "good_for": ["protection solaire", "peau sèche", "cicatrisation"],
+      "bad_for": ["peut causer des boutons chez certains"],
+      "products": ["The Body Shop Vitamin E Range", "Skinceuticals CE Ferulic"]
+    },
+    {
+      "name": "Adapalène",
+      "role": "Rétinoïde spécifique pour l'acné",
+      "good_for": ["acné", "points noirs", "prévention des boutons"],
+      "bad_for": ["peau sensible", "grossesse"],
+      "products": ["Differin Gel", "La Roche-Posay Effaclar Adapalene"]
+    },
+    {
+      "name": "Gluconolactone (PHA)",
+      "role": "Exfoliant très doux pour peaux sensibles",
+      "good_for": ["peau sensible", "hydratation", "exfoliation légère"],
+      "bad_for": [],
+      "products": ["Zelens PHA+ Bio-Peel Resurfacing Facial Pads", "The Inkey List PHA Toner"]
+    },
+    {
+      "name": "Acide Mandélique",
+      "role": "AHA à grosses molécules, exfoliation lente et douce",
+      "good_for": ["acné chez l'adulte", "taches", "teint irrégulier"],
+      "bad_for": [],
+      "products": ["The Ordinary Mandelic Acid 10% + HA", "By Wishtrend Mandelic Acid 5% Skin Prep Water"]
+    },
+    {
+      "name": "Extrait d'Escargot (Snail Mucin)",
+      "role": "Réparateur, hydratant et apaisant",
+      "good_for": ["peau déshydratée", "cicatrices d'acné", "barrière cutanée"],
+      "bad_for": ["allergie aux escargots"],
+      "products": ["COSRX Advanced Snail 96 Mucin Power Essence"]
+    },
+    {
+      "name": "Propolis",
+      "role": "Antiseptique naturel et cicatrisant",
+      "good_for": ["acné", "irritations", "teint terne"],
+      "bad_for": ["allergie aux produits de la ruche"],
+      "products": ["COSRX Full Fit Propolis Light Ampoule", "Iunik Propolis Vitamin Synergy Serum"]
+    },
+    {
+      "name": "Miel",
+      "role": "Humectant et antibactérien",
+      "good_for": ["hydratation", "acné légère", "éclat"],
+      "bad_for": ["allergie au miel"],
+      "products": ["Farmacy Honey Potion", "I'm From Honey Mask"]
+    },
+    {
+      "name": "Extrait d'Avoine (Colloidal Oatmeal)",
+      "role": "Calme les démangeaisons et protège la barrière",
+      "good_for": ["eczéma", "peau irritée", "peau sensible"],
+      "bad_for": [],
+      "products": ["Aveeno Daily Moisturizing Lotion", "First Aid Beauty Ultra Repair Cream"]
+    },
+    {
+      "name": "Resvératrol",
+      "role": "Antioxydant issu du raisin, protège du vieillissement",
+      "good_for": ["anti-âge", "protection environnementale", "teint terne"],
+      "bad_for": [],
+      "products": ["The Ordinary Resveratrol 3% + Ferulic Acid 3%", "Caudalie Resveratrol-Lift"]
+    },
+    {
+      "name": "Acide Férulique",
+      "role": "Antioxydant qui booste l'efficacité des vitamines C et E",
+      "good_for": ["anti-âge", "taches solaires", "éclat"],
+      "bad_for": [],
+      "products": ["Skinceuticals CE Ferulic", "The Ordinary Resveratrol + Ferulic Acid"]
+    },
+    {
+      "name": "Coenzyme Q10",
+      "role": "Énergie cellulaire et antioxydant",
+      "good_for": ["rides", "teint fatigué", "anti-âge"],
+      "bad_for": [],
+      "products": ["The Inkey List Q10 Serum", "Eucerin Q10 Anti-Wrinkle Face Cream"]
+    },
+    {
+      "name": "Urée",
+      "role": "Hydratant intense et kératolytique doux",
+      "good_for": ["peau très sèche", "peau rugueuse", "kératose pilaire"],
+      "bad_for": ["peau lésée"],
+      "products": ["Eucerin UreaRepair PLUS", "The Ordinary Natural Moisturizing Factors + HA"]
+    },
+    {
+      "name": "Acide Tranexamique",
+      "role": "Réduit visiblement les taches et le mélasma",
+      "good_for": ["hyperpigmentation", "mélasma", "rougeurs post-boutons"],
+      "bad_for": [],
+      "products": ["The Inkey List Tranexamic Acid Night Treatment", "Skinceuticals Discoloration Defense"]
+    },
+    {
+      "name": "Extrait d'Algues",
+      "role": "Hydratation marine et détoxification",
+      "good_for": ["déshydratation", "anti-âge", "protection"],
+      "bad_for": [],
+      "products": ["La Mer Crème de la Mer", "Biotherm Life Plankton"]
+    },
+    {
+      "name": "Beurre de Karité",
+      "role": "Nourrissant en profondeur et protecteur",
+      "good_for": ["peau très sèche", "lèvres", "zones rugueuses"],
+      "bad_for": ["peau grasse/acnéique (risque de comédogénicité)"],
+      "products": ["L'Occitane Shea Butter Ultra Rich Face Cream", "La Roche-Posay Lipikar Baume AP+M"]
+    },
+    {
+      "name": "Aloé Vera",
+      "role": "Hydratant, frais et apaisant",
+      "good_for": ["coups de soleil", "irritations", "hydratation légère"],
+      "bad_for": [],
+      "products": ["Holika Holika Aloe 99% Soothing Gel", "Plante System Aloe Vera"]
+    },
+    {
+      "name": "Hamamélis (Witch Hazel)",
+      "role": "Astringent naturel, resserre les pores",
+      "good_for": ["peau grasse", "pores dilatés", "tonifiant"],
+      "bad_for": ["peau sèche", "irritation si contient trop d'alcool"],
+      "products": ["Thayers Witch Hazel Toner", "Dickinson's Original Witch Hazel"]
+    },
+    {
+      "name": "Extrait de Calendula",
+      "role": "Apaisant et anti-inflammatoire pour peaux fragiles",
+      "good_for": ["peau sensible", "rougeurs", "peaux de bébés"],
+      "bad_for": [],
+      "products": ["Kiehl's Calendula Herbal-Extract Toner", "Weleda Calendula Face Cream"]
+    },
+    {
+      "name": "Ginseng",
+      "role": "Revitalisant et boosteur de circulation",
+      "good_for": ["teint terne", "fatigue cutanée", "anti-âge"],
+      "bad_for": [],
+      "products": ["Sulwhasoo Concentrated Ginseng Renewing Cream", "I'm From Ginseng Serum"]
+    },
+    {
+      "name": "Caféine",
+      "role": "Vasoconstricteur, réduit les poches et cernes",
+      "good_for": ["cernes", "poches sous les yeux", "teint fatigué"],
+      "bad_for": [],
+      "products": ["The Ordinary Caffeine Solution 5% + EGCG", "The Inkey List Caffeine Eye Cream"]
+    },
+    {
+      "name": "Probiotiques (Ferment Filtrate)",
+      "role": "Équilibre le microbiome cutané",
+      "good_for": ["peau sensible", "acné", "barrière cutanée"],
+      "bad_for": [],
+      "products": ["La Roche-Posay Toleriane Sensitive", "Estée Lauder Advanced Night Repair"]
+    },
+    {
+      "name": "Acide Citrique",
+      "role": "Ajusteur de pH et exfoliant léger",
+      "good_for": ["éclat", "grain de peau", "taches"],
+      "bad_for": ["sensibilité au soleil"],
+      "products": ["Neutrogena Bright Boost", "Eucerin pH5 Lotion"]
+    },
+    {
+      "name": "Huile d'Arbre à Thé (Tea Tree Oil)",
+      "role": "Antibactérien et antifongique naturel",
+      "good_for": ["acné", "imperfections", "points noirs"],
+      "bad_for": ["peau sensible (utiliser dilué)"],
+      "products": ["The Body Shop Tea Tree Oil", "Mediheal Tea Tree Care Solution Mask"]
+    },
+    {
+      "name": "Oxyde de Zinc",
+      "role": "Filtre solaire minéral et apaisant",
+      "good_for": ["protection solaire", "érythème fessier", "irritations"],
+      "bad_for": ["effet blanc sur peau foncée"],
+      "products": ["La Roche-Posay Anthelios Mineral", "Avène Cicalfate+"]
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Acné",
+      "cause": "Excès de sébum + bactéries Propionibacterium + pores obstrués",
+      "treatment": "Acide salicylique + niacinamide + peroxyde de benzoyle",
+      "avoid": "Huile de coco, alcool dénaturé, produits comédogènes",
+      "recommended_products": [
+        "CeraVe SA Cleanser",
+        "La Roche-Posay Effaclar Duo",
+        "The Ordinary Niacinamide 10%"
+      ]
+    },
+    {
+      "name": "Peau grasse",
+      "cause": "Surproduction de sébum par les glandes sébacées",
+      "treatment": "Nettoyant gel + niacinamide + SPF léger",
+      "avoid": "Crèmes trop riches, huiles lourdes, nettoyage trop agressif",
+      "recommended_products": [
+        "CeraVe Foaming Cleanser",
+        "La Roche-Posay Effaclar Mat",
+        "Neutrogena Clear Face SPF"
+      ]
+    },
+    {
+      "name": "Peau sèche",
+      "cause": "Manque de lipides naturels dans la barrière cutanée",
+      "treatment": "Nettoyant crémeux + acide hyaluronique + crème riche aux céramides",
+      "avoid": "Alcool, sulfates agressifs, eau trop chaude",
+      "recommended_products": [
+        "CeraVe Hydrating Cleanser",
+        "Neutrogena Hydro Boost",
+        "Avène Tolerance Extreme"
+      ]
+    },
+    {
+      "name": "Peau sensible",
+      "cause": "Barrière cutanée fragilisée et réactivité accrue",
+      "treatment": "Produits sans parfum + sans alcool + actifs apaisants (Cica, Panthénol)",
+      "avoid": "Acides forts, rétinol pur à haute dose, parfums, alcool",
+      "recommended_products": [
+        "Avène Eau Thermale",
+        "La Roche-Posay Toleriane",
+        "CeraVe Moisturizing Cream"
+      ]
+    },
+    {
+      "name": "Taches pigmentaires (Hyperpigmentation)",
+      "cause": "Surproduction localisée de mélanine due au soleil ou inflammation",
+      "treatment": "Vitamine C + acide kojique + acide tranexamique + SPF obligatoire",
+      "avoid": "Exposition solaire sans protection, gratter les boutons",
+      "recommended_products": [
+        "The Ordinary Alpha Arbutin",
+        "Vichy Liftactiv B3",
+        "La Roche-Posay Mela B3"
+      ]
+    },
+    {
+      "name": "Pores dilatés",
+      "cause": "Excès de sébum + perte d'élasticité cutanée",
+      "treatment": "Niacinamide + BHA + rétinol",
+      "avoid": "Produits comédogènes, huiles lourdes",
+      "recommended_products": [
+        "The Ordinary Niacinamide 10%",
+        "Paula's Choice BHA",
+        "La Roche-Posay Effaclar"
+      ]
+    },
+    {
+      "name": "Rosacée",
+      "cause": "Inflammation chronique des vaisseaux sanguins du visage",
+      "treatment": "Acide azélaïque + nettoyant très doux + protection solaire minérale",
+      "avoid": "Soleil, alcool, nourriture épicée, gommages à grains",
+      "recommended_products": [
+        "La Roche-Posay Rosaliac",
+        "The Ordinary Azelaic Acid",
+        "Avène Antirougeurs"
+      ]
+    },
+    {
+      "name": "Rides et ridules",
+      "cause": "Diminution du collagène et de l'élastine avec l'âge",
+      "treatment": "Rétinol + peptides + protection solaire quotidienne",
+      "avoid": "Tabac, déshydratation, exposition UV sans SPF",
+      "recommended_products": [
+        "La Roche-Posay Redermic R",
+        "Vichy Liftactiv Retinol",
+        "The Ordinary Buffet"
+      ]
+    },
+    {
+      "name": "Cernes",
+      "cause": "Fatigue, génétique, mauvaise circulation ou peau fine",
+      "treatment": "Caféine + vitamine C + hydratation",
+      "avoid": "Manque de sommeil, frottement excessif des yeux",
+      "recommended_products": [
+        "The Ordinary Caffeine Solution",
+        "La Roche-Posay Pigmentclar Eyes",
+        "CeraVe Eye Repair Cream"
+      ]
+    },
+    {
+      "name": "Peau déshydratée",
+      "cause": "Manque d'eau dans les couches de la peau (état temporaire)",
+      "treatment": "Acide hyaluronique + humectants + sceller avec une crème",
+      "avoid": "Nettoyants décapants, air sec sans protection",
+      "recommended_products": [
+        "Neutrogena Hydro Boost",
+        "Vichy Minéral 89",
+        "La Roche-Posay Hyalu B5"
+      ]
+    }
+  ],
+  "routines": [
+    {
+      "skin_type": "grasse",
+      "morning": [
+        "Nettoyant gel (CeraVe Foaming)",
+        "Tonique sans alcool à l'hamamélis",
+        "Sérum Niacinamide 10%",
+        "Hydratant gel léger (Neutrogena Hydro Boost)",
+        "SPF 50 fluide non-comédogène"
+      ],
+      "evening": [
+        "Double nettoyage (huile puis gel)",
+        "Exfoliant BHA (2x/semaine)",
+        "Sérum Niacinamide",
+        "Hydratant léger"
+      ]
+    },
+    {
+      "skin_type": "seche",
+      "morning": [
+        "Nettoyant crémeux (CeraVe Hydrating)",
+        "Sérum Acide Hyaluronique sur peau humide",
+        "Crème riche aux céramides",
+        "SPF 50 hydratant"
+      ],
+      "evening": [
+        "Baume nettoyant nourrissant",
+        "Sérum hydratant intense",
+        "Crème de nuit nourrissante",
+        "Huile visage (Rose musquée)"
+      ]
+    },
+    {
+      "skin_type": "mixte",
+      "morning": [
+        "Nettoyant doux",
+        "Sérum Vitamine C (éclat)",
+        "Hydratant léger sur zone T, riche sur joues",
+        "SPF 50 fini matifiant"
+      ],
+      "evening": [
+        "Nettoyant doux",
+        "Sérum selon besoin (BHA ou Rétinol alterné)",
+        "Hydratant équilibrant"
+      ]
+    },
+    {
+      "skin_type": "sensible",
+      "morning": [
+        "Nettoyant sans sulfates",
+        "Eau thermale apaisante",
+        "Sérum au Panthénol ou Cica",
+        "Crème barrière protectrice",
+        "SPF minéral sans parfum"
+      ],
+      "evening": [
+        "Eau micellaire douce",
+        "Sérum réparateur à la Centella",
+        "Crème apaisante riche"
+      ]
+    }
+  ]
+}
